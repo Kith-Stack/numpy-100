@@ -22,7 +22,7 @@ import numpy as np
 
 
 ```python
-print(np.__version__)
+print(np.version.full_version)
 np.show_config()
 ```
 #### 3. Create a null vector of size 10 (★☆☆)
